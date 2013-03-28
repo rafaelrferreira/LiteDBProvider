@@ -6,7 +6,7 @@ using System.Data.Common;
 using System.Data;
 using System.Collections;
 
-namespace TechShift.DataAccessLayer
+namespace LiteDBProvider.DataAccessLayer
 {
     /// <summary>
     /// 

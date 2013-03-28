@@ -6,7 +6,7 @@ using System.Data.Common;
 using System.Configuration;
 using System.Data;
 
-namespace TechShift.DataAccessLayer
+namespace LiteDBProvider.DataAccessLayer
 {
     public sealed class DBConnectionProvider
     {

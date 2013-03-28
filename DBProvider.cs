@@ -7,10 +7,10 @@ using System.Data;
 using System.Collections;
 using System.Data.SqlClient;
 
-using TechShift.DataAccessLayer;
+using LiteDBProvider.DataAccessLayer;
 using DataLayer;
 
-namespace TechShift.DataAccessLayer
+namespace LiteDBProvider.DataAccessLayer
 {
     /// <summary>
     /// 

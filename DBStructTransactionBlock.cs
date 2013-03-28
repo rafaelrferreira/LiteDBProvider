@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Data.Common;
 
-namespace TechShift.DataAccessLayer
+namespace LiteDBProvider.DataAccessLayer
 {
     /// <summary>
     /// Struct de encapsulamento de itens de um bloco de execução (query/procedure + msgErro + lista de parâmetros)

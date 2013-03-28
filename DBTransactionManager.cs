@@ -5,9 +5,9 @@ using System.Text;
 using System.Data.Common;
 using System.Data;
 
-using TechShift.DataAccessLayer;
+using LiteDBProvider.DataAccessLayer;
 
-namespace TechShift.DataAccessLayer
+namespace LiteDBProvider.DataAccessLayer
 {
     /// <summary>
     /// 
