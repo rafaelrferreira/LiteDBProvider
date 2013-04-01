@@ -13,7 +13,7 @@ using DataLayer;
 namespace LiteDBProvider.DataAccessLayer
 {
     /// <summary>
-    /// 
+    /// Classe base com os métodos de execução dos comandos SQL
     /// </summary>
     public sealed class DBProvider
     {
