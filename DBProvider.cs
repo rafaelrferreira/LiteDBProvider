@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Web;
 using System.Data.Common;
 using System.Data;
@@ -8,7 +7,6 @@ using System.Collections;
 using System.Data.SqlClient;
 
 using LiteDBProvider.DataAccessLayer;
-using DataLayer;
 
 namespace LiteDBProvider.DataAccessLayer
 {

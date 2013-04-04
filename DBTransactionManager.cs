@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Data.Common;
 using System.Data;
@@ -20,7 +19,6 @@ namespace LiteDBProvider.DataAccessLayer
 
         private DbCommand command;
         private DbTransaction transaction = null;
-        private DbParameter parameter = null;
         private bool transHold = false;
 
         /// <summary>
